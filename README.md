@@ -1,2 +1,2 @@
 # zeynners
-personal repo
+personal repo 🤖
